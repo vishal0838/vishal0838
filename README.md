@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal
 
-<!--
-**vishal0838/vishal0838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Web Developer | 🎬 Video Editor
+🚀 Passionate about building real-world projects and creative content
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning **DSA & Backend Development**
+* ⚙️ Working with **Node.js, Express, MongoDB, EJS**
+* 💡 Love solving problems and improving daily
+* 🎯 Goal: Get a great job and support my family
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: C++ , JavaScript
+* 🌐 Web: HTML, CSS, Node.js, Express
+* 🗄️ Database: MongoDB
+* 🎨 Tools: Git, GitHub, VS Code
+* 🎬 Video Editing: Premiere Pro / CapCut (or your tool)
+
+---
+
+## 🚀 Projects
+
+### 🌍 Wanderlust (Major Project)
+
+* A full-stack web application for property listings
+* Features: Image upload, authentication, CRUD operations
+* Tech: Node.js, Express, MongoDB, EJS
+
+---
+
+## 📈 Currently Focusing On
+
+* 📚 Data Structures & Algorithms
+* 🌐 Full Stack Development
+* ⚡ Building more real-world projects
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (add your link)
+* 📧 Email: (add your email)
+
+---
+
+## ⚡ Fun Fact
+
+🏋️‍♂️ Gym + 💻 Coding + 🎬 Editing = My Daily Routine
+
+---
+
+⭐ *"Consistency is what turns skills into success."*
