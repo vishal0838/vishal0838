@@ -45,8 +45,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 📧 Email: (add your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/vishal-bankar-2b4835377
+* 📧 Email: bankarvishal069@gmail.com
 
 ---
 
