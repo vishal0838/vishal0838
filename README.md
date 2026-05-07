@@ -11,7 +11,6 @@
 * 🌱 Currently learning **DSA & Backend Development**
 * ⚙️ Working with **Node.js, Express, MongoDB, EJS**
 * 💡 Love solving problems and improving daily
-* 🎯 Goal: Get a great job and support my family
 
 ---
 
