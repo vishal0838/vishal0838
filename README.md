@@ -20,7 +20,7 @@
 * 🌐 Web: HTML, CSS, Node.js, Express
 * 🗄️ Database: MongoDB
 * 🎨 Tools: Git, GitHub, VS Code
-* 🎬 Video Editing: Premiere Pro / CapCut (or your tool)
+* 🎬 Video Editing: CapCut
 
 ---
 
